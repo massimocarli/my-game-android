@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="uk.co.massimocarli.mathgame.RealtimeMultiplayerFragment">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/realtime_quick_start_button"
+        android:id="@+id/realtime_quick_start_button"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/realtime_invite_friend_button"
+        android:id="@+id/realtime_invite_friend_button"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/realtime_invite_inbox"
+        android:id="@+id/realtime_invite_inbox"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/realtime_send_message_hint"
+        android:id="@+id/realtime_send_message_input" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/realtime_send_reliable_message_label"
+        android:id="@+id/realtime_send_reliable_message_button"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/realtime_send_unreliable_message_label"
+        android:id="@+id/realtime_send_unreliable_message_button"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_option_achievements"
+        android:title="@string/menu_achievements_label" />
+    <item
+        android:id="@+id/menu_leaderboards_label"
+        android:title="@string/menu_leaderboards_label" />
+    <item
+        android:id="@+id/menu_realtime_multiplayer_label"
+        android:title="@string/menu_realtime_multiplayer_label" />
+    <item
+        android:id="@+id/menu_turn_label"
+        android:title="@string/menu_turn_label" />
+    <item
+        android:id="@+id/menu_gift_wish"
+        android:title="@string/menu_gift_wish_label" />
+    <item
+        android:id="@+id/menu_event_quest"
+        android:title="@string/menu_event_quest_label" />
+    <item
+        android:id="@+id/menu_save_state"
+        android:title="@string/menu_save_state_label" />
+
+</menu>

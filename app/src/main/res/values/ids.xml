@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">358298599941</string>
+
+    <!-- Achievements resources-->
+    <string name="achievement_1">CgkIhYSL4rYKEAIQAg</string>
+    <string name="achievement_2">CgkIhYSL4rYKEAIQAw</string>
+    <string name="achievement_3">CgkIhYSL4rYKEAIQBA</string>
+    <string name="achievement_4">CgkIhYSL4rYKEAIQBQ</string>
+    <string name="achievement_5">CgkIhYSL4rYKEAIQBg</string>
+    <string name="achievement_incremental">CgkIhYSL4rYKEAIQBw</string>
+
+    <!-- Leaderboards resources-->
+    <string name="leaderboard_thebest">CgkIhYSL4rYKEAIQCA</string>
+
+    <!-- Events-->
+    <string name="event_1">CgkIhYSL4rYKEAIQCQ</string>
+    <string name="event_2">CgkIhYSL4rYKEAIQCg</string>
+    <string name="event_3">CgkIhYSL4rYKEAIQCw</string>
+
+</resources>

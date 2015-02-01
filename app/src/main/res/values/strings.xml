@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MathGame</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Main Option Menu -->
+    <string name="menu_achievements_label">Achievements</string>
+    <string name="menu_leaderboards_label">Leaderboards</string>
+    <string name="menu_realtime_multiplayer_label">Realtime Multiplayer</string>
+    <string name="menu_turn_label">Turn Based Multiplayer</string>
+    <string name="menu_gift_wish_label">Gift &amp; Wish</string>
+    <string name="menu_event_quest_label">Event &amp; Quest</string>
+    <string name="menu_save_state_label">Save State</string>
+
+    <!-- Achievements -->
+    <string name="achievement_label">Achievements</string>
+    <string name="unblock_achievement_1_label">Unlock Achievement 1</string>
+    <string name="unblock_achievement_2_label">Unlock Achievement 2</string>
+    <string name="unblock_achievement_3_label">Unlock Achievement 3</string>
+    <string name="unblock_achievement_4_label">Unlock Achievement 4</string>
+    <string name="unblock_achievement_5_label">Unlock Achievement 5</string>
+    <string name="increment_achievement">Increment Achievement</string>
+    <string name="show_achievements_label">Show Achievements</string>
+
+    <!-- Leaderboards -->
+    <string name="leaderboard_label">Leaderboards</string>
+    <string name="seekbar_points_label">Points to add %d</string>
+    <string name="add_points_button_label">Add %d points to Leaderboard</string>
+    <string name="show_the_best_leaderboard_button_label">Show The Best Leaderboard</string>
+    <string name="show_all_leaderboards_button_label">Show All Leaderboards</string>
+
+    <!-- Mutiplayer -->
+    <string name="realtime_multiplayer_label">Realtime Multiplayer</string>
+    <string name="realtime_quick_start_button">Quick Start</string>
+    <string name="realtime_invite_friend_button">Invite Friends</string>
+    <string name="realtime_invite_inbox">Invite Inbox</string>
+    <string name="realtime_send_message_hint">Write your message here</string>
+    <string name="realtime_send_reliable_message_label">Send reliable message</string>
+    <string name="realtime_send_unreliable_message_label">Send unreliable message</string>
+
+
+    <!-- Turn based -->
+    <string name="turn_invite_friend_button">Invite Friends</string>
+    <string name="turn_invite_inbox_button">Invite Inbox</string>
+    <string name="turn_invite_send_move">Send Move</string>
+
+    <!-- Gift and Wish -->
+    <string name="gift_button_label">Create Gift</string>
+    <string name="wish_button_label">Create Wish</string>
+
+
+    <!-- Event and Quest -->
+    <string name="event_quest_increment_button_label_1">Increment Event 1</string>
+    <string name="event_quest_increment_button_label_2">Increment Event 2</string>
+    <string name="event_quest_increment_button_label_3">Increment Event 3</string>
+    <string name="event_quest_show_mission_button_label">Show Mission</string>
+
+    <!-- Save state -->
+    <string name="save_state_show_savings">Show Savings</string>
+
+</resources>
